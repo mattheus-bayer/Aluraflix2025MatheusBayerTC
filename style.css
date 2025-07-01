@@ -19,6 +19,9 @@ section {
     display: flex;
     justify-content: center;
 }
+.chamada-texto{
+    margin-right: 5%;
+}
 header{
    border: 2px solid rgb(209, 18, 18);
    margin: 20px;
